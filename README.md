@@ -12,6 +12,7 @@ O objetivo foi estruturar o site utilizando HTML, CSS, para praticar lane pages.
 
 ### Gustavo Ferreira
 
-### Deploy:  https://gustavo21ferreira.github.io/Tec-blog/
 
 ### Linkedin: https://www.linkedin.com/in/gustavo-front-end/
+
+### Deploy:  https://gustavo21ferreira.github.io/Tec-blog/
